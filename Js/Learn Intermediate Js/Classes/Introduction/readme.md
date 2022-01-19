@@ -1,4 +1,4 @@
-#Introduction to Classes#
+# Introduction to Classes #
 
 JavaScript is an object-oriented programming (OOP) language we can use to model real-world items. In this lesson, you will learn how to make classes. Classes are a tool that developers use to quickly produce similar objects.
 
