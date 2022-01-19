@@ -3,8 +3,8 @@
 JavaScript is an object-oriented programming (OOP) language we can use to model real-world items. In this lesson, you will learn how to make classes. Classes are a tool that developers use to quickly produce similar objects.
 
 Take, for example, an object representing a dog named halley. This dog’s name (a key) is "Halley" (a value) and has a behavior (another key) of 0 (another value). We create the halley object below:
-
-` let halley = {
+```
+let halley = {
   _name: 'Halley',
   _behavior: 0,
  
@@ -19,7 +19,8 @@ Take, for example, an object representing a dog named halley. This dog’s name 
   incrementBehavior() {
     this._behavior++;
   }
-} `
+}
+```
 
 Now, imagine you own a dog daycare and want to create a catalog of all the dogs who belong to the daycare. Instead of using the syntax above for every dog that joins the daycare, we can create a Dog class that serves as a template for creating new Dog objects. For each new dog, you can provide a value for their name.
 
