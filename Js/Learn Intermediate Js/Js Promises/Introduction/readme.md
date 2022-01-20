@@ -1,4 +1,4 @@
 # Introduction #
 
-- [Index](./JsPromises).
-- [Next What is a Promise?](./JsPromises/WhatIsAPromise).
+- [Index](./).
+- [Next What is a Promise?](./WhatIsAPromise).

@@ -1,5 +1,5 @@
 # What Is a Promise? #
 
-- [Index](./JsPromises).
-- [Previous Introduction](./JsPromises/Introduction).
-- [Next Constructing a Promise Object](./JsPromises/ConstructingAPromiseObject).
+- [Index](./).
+- [Previous Introduction](./Introduction).
+- [Next Constructing a Promise Object](./ConstructingAPromiseObject).
