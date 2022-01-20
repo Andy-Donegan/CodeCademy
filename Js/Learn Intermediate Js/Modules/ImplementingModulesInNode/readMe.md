@@ -8,8 +8,8 @@ Modules are reusable pieces of code in a file that can be exported and then impo
 
 Consider the diagram below of an imaginary program written in a file my_app.js:
 
-![image](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Modules/ImplementingModulesInNode/modular-program-diagram.svg)
-> Note: The words “module” and “file” are often used interchangably
+![image](./modular-program-diagram.svg)
+> Note: The words â€œmoduleâ€ and â€œfileâ€ are often used interchangably
 
 Instead of having the entire program written within my_app.js, its components are broken up into separate modules that each handle a particular task. For example, the database_logic.js module may contain code for storing and retrieving data from a database. Meanwhile, the date_formatting.js module may contain functions designed to easily convert date values from one format to another (a common headache among programmers!).
 
