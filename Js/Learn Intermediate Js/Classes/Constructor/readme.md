@@ -1,6 +1,10 @@
 # Constructor #
 
-In the [last exercise](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Introduction), you created a class called Dog, and used it to produce a Dog object.
+- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
+- [Previous Introduction](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Introduction).
+- [Next Instance](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Instance).
+
+In the last exercise, you created a class called Dog, and used it to produce a Dog object.
 
 Although you may see similarities between class and object syntax, there is one important method that sets them apart. It’s called the constructor method. JavaScript calls the constructor() method every time it creates a new instance of a class.
 ```

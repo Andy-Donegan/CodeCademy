@@ -1,6 +1,7 @@
 # Method Calls #
 
-- [last exercise](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Methods).
+- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
+- [Previous Methods](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Methods).
 
 Finally, let’s use our new methods to access and manipulate data from Dog instances.
 ```
