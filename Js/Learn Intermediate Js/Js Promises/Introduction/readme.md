@@ -1,4 +1,4 @@
 # Introduction #
 
 - [Index](./).
-- [Next What is a Promise?](./WhatIsAPromise).
+- [Next What is a Promise?](../WhatIsAPromise).
