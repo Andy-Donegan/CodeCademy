@@ -1,2 +1,2 @@
 # CodeCademy
-Proof of CodeCademy Work
+Proof of CodeCademy work and understanding of subjects with example code.
