@@ -1,7 +1,7 @@
 # Introduction #
 
 - [Index](../).
-- [Next HTTP Requests](./HTTPRequests).
+- [Next HTTP Requests](../HTTPRequests).
 
 Introduction to Requests
 Have you ever wondered what happens after you click a “Submit” button on a web page? For instance, if you are submitting information, where does the information go? How is the information processed? The answer to the previous questions revolves around HTTP requests.

@@ -1,8 +1,8 @@
 # HTTP Requests #
 
 - [Index](../).
-- [Previous HTTP Requests](./HTTPRequests).
-- [Next XHR GET Requests](./XHRGETRequests).
+- [Previous HTTP Requests](../HTTPRequests).
+- [Next XHR GET Requests](../XHRGETRequests).
 
 One of JavaScript’s greatest assets is its non-blocking properties, or that it is an asynchronous language.
 
