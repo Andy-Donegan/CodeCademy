@@ -4,9 +4,8 @@
 
 - [Introduction](./Introduction).
 - [HTTP Requests](./HttpRequests).
+- [XHR GET Requests](./XHRGETRequests).
 
-
-- [The await Operator](./TheAwaitOperator).
 - [Writing async Functions](./WritingAsyncFunctions).
 - [Handling Dependent Promises](./HandlingDependentPromises).
 - [Handling Errors](./HandlingErrors).
