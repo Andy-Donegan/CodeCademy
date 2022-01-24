@@ -1,8 +1,8 @@
 # Handling Independent Promises #
 
 - [Index](../).
-- [Previous Handling Independent Promises](./HandlingIndependentPromises).
-- [Next Review async await](./Review).
+- [Previous Handling Independent Promises](../HandlingIndependentPromises).
+- [Next Review async await](../Review).
 
 Another way to take advantage of concurrency when we have multiple promises which can be executed simultaneously is to await a Promise.all().
 

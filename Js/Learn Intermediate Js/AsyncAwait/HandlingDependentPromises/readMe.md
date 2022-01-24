@@ -1,8 +1,8 @@
 # Handling Dependent Promises #
 
 - [Index](../).
-- [Previous Writing async Functions](./WritingAsyncFunctions).
-- [Next Handling Errors](./HandlingErrors).
+- [Previous Writing async Functions](../WritingAsyncFunctions).
+- [Next Handling Errors](../HandlingErrors).
 
 The true beauty of async...await is when we have a series of asynchronous actions which depend on one another. For example, we may make a network request based on a query to a database. In that case, we would need to wait to make the network request until we had the results from the database. With native promise syntax, we use a chain of .then() functions making sure to return correctly each one:
 ```

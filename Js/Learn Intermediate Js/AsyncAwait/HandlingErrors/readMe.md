@@ -1,8 +1,8 @@
 # Handling Errors #
 
 - [Index](../).
-- [Previous Handling Dependent Promises](./HandlingDependentPromises).
-- [Next Handling Independent Promises](./HandlingIndependentPromises).
+- [Previous Handling Dependent Promises](../HandlingDependentPromises).
+- [Next Handling Independent Promises](../HandlingIndependentPromises).
 
 When .catch() is used with a long promise chain, there is no indication of where in the chain the error was thrown. This can make debugging challenging.
 

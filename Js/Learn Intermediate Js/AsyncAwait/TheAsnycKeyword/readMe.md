@@ -1,8 +1,8 @@
 # The async Keyword #
 
 - [Index](../).
-- [Previous Introduction](./Introduction).
-- [Next The await Operator](./TheAwaitOperator).
+- [Previous Introduction](../Introduction).
+- [Next The await Operator](../TheAwaitOperator).
 
 The async keyword is used to write functions that handle asynchronous actions. We wrap our asynchronous logic inside a function prepended with the async keyword. Then, we invoke that function.
 ```

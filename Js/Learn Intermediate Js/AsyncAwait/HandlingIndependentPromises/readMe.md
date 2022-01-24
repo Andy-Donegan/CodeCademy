@@ -1,8 +1,8 @@
 # Handling Independent Promises #
 
 - [Index](../).
-- [Previous Handling Errors](./HandlingErrors).
-- [Next Await Promise.all()](./AwaitPromise.All).
+- [Previous Handling Errors](../HandlingErrors).
+- [Next Await Promise.all()](../AwaitPromise.All).
 
 Remember that await halts the execution of our async function. This allows us to conveniently write synchronous-style code to handle dependent promises. But what if our async function contains multiple promises which are not dependent on the results of one another to execute?
 ```

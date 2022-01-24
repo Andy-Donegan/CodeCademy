@@ -1,7 +1,7 @@
 # Review async await #
 
 - [Index](../).
-- [Previous Handling Errors](./HandlingErrors).
+- [Previous Handling Errors](../HandlingErrors).
 
 Awesome work getting the hang of the async...await syntax! Let’s review what you’ve learned:
 

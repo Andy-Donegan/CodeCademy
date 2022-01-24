@@ -1,8 +1,8 @@
 # The await Operator #
 
 - [Index](../).
-- [Previous The async Keyword](./TheAsyncKeyword).
-- [Next Writing async Functions](./WritingAsyncFunctions).
+- [Previous The async Keyword](../TheAsyncKeyword).
+- [Next Writing async Functions](../WritingAsyncFunctions).
 
 In the last exercise, we covered the async keyword. By itself, it doesn’t do much; async functions are almost always used with the additional keyword await inside the function body.
 

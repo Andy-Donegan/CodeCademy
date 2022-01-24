@@ -1,8 +1,8 @@
 # Writing async Functions #
 
 - [Index](../).
-- [Previous The await Operator](./TheAwaitOperator).
-- [Next Handling Dependent Promises](./HandlingDependentPromises).
+- [Previous The await Operator](../TheAwaitOperator).
+- [Next Handling Dependent Promises](../HandlingDependentPromises).
 
 We’ve seen that the await keyword halts the execution of an async function until a promise is no longer pending. Don’t forget the await keyword! It may seem obvious, but this can be a tricky mistake to catch because our function will still run— it just won’t have the desired results.
 

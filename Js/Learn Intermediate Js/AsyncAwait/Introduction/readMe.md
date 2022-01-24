@@ -1,7 +1,7 @@
 # Introduction #
 
 - [Index](../).
-- [Next The async Keyword](./TheAsyncKeyword).
+- [Next The async Keyword](../TheAsyncKeyword).
 
 Often in web development, we need to handle asynchronous actions— actions we can wait on while moving on to other tasks. We make requests to networks, databases, or any number of similar operations. JavaScript is non-blocking: instead of stopping the execution of code while it waits, JavaScript uses an event-loop which allows it to efficiently execute other tasks while it awaits the completion of these asynchronous actions.
 
