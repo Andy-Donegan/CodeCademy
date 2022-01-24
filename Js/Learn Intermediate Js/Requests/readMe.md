@@ -5,6 +5,7 @@
 - [Introduction](./Introduction).
 - [HTTP Requests](./HTTPRequests).
 - [XHR GET Requests](./XHRGETRequests).
+- [XHR GET Requests 2](./XHRGETRequests2).
 
 - [Writing async Functions](./WritingAsyncFunctions).
 - [Handling Dependent Promises](./HandlingDependentPromises).
