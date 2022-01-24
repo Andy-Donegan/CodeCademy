@@ -1,7 +1,7 @@
 # Review Promises #
 
 - [Index](../).
-- [Previous Using Promise.all()](./UsingPromise.All()).
+- [Previous Using Promise.all()](../UsingPromise.All()).
 
 Awesome job! Promises are a difficult concept even for experienced developers, so pat yourself on the back. You’ve learned a ton about asynchronous JavaScript and promises. Let’s review:
 

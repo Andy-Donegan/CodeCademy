@@ -1,8 +1,8 @@
 # Chaining Multiple Promises #
 
 - [Index](../).
-- [Previous Using catch() with Promises](./UsingCatch()WithPromises).
-- [Next Avoiding Common Mistakes](./AvoidingCommonMistakes).
+- [Previous Using catch() with Promises](../UsingCatch()WithPromises).
+- [Next Avoiding Common Mistakes](../AvoidingCommonMistakes).
 
 One common pattern we’ll see with asynchronous programming is multiple operations which depend on each other to execute or that must be executed in a certain order. We might make one request to a database and use the data returned to us to make another request and so on! Let’s illustrate this with another cleaning example, washing clothes:
 

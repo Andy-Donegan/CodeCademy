@@ -1,8 +1,8 @@
 # Success and Failure Callback Functions #
 
 - [Index](../).
-- [Previous Consuming Promises](./ConsumingPromises).
-- [Next Using catch() with Promises](./UsingCatch()WithPromises).
+- [Previous Consuming Promises](..ConsumingPromises).
+- [Next Using catch() with Promises](../UsingCatch()WithPromises).
 
 To handle a “successful” promise, or a promise that resolved, we invoke .then() on the promise, passing in a success handler callback function:
 ```

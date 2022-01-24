@@ -1,8 +1,8 @@
 # Using Promise.All() #
 
 - [Index](../).
-- [Previous Avoiding Common Mistakes](./AvoidingCommonMistakes).
-- [Next Review Promises](./Review).
+- [Previous Avoiding Common Mistakes](../AvoidingCommonMistakes).
+- [Next Review Promises](../Review).
 
 When done correctly, promise composition is a great way to handle situations where asynchronous operations depend on each other or execution order matters. What if we’re dealing with multiple promises, but we don’t care about the order? Let’s think in terms of cleaning again.
 

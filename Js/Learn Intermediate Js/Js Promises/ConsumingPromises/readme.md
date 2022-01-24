@@ -1,8 +1,8 @@
 # Consuming Promises #
 
 - [Index](../).
-- [Previous The Node setTimeout() Function](./TheNodesetTimeout()Function).
-- [Next Success and Failure Callback Functions](./SuccessAndFailureCallbackFunctions).
+- [Previous The Node setTimeout() Function](../TheNodesetTimeout()Function).
+- [Next Success and Failure Callback Functions](../SuccessAndFailureCallbackFunctions).
 
 Consuming Promises
 The initial state of an asynchronous promise is pending, but we have a guarantee that it will settle. How do we tell the computer what should happen then? Promise objects come with an aptly named .then() method. It allows us to say, “I have a promise, when it settles, then here’s what I want to happen…”

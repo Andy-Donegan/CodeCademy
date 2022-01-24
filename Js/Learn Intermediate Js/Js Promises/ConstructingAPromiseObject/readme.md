@@ -2,7 +2,7 @@
 
 - [Index](../).
 - [Previous What is a Promise?](../WhatIsAPromise).
-- [Next The Node setTimeout() Function](./TheNodesetTimeout()Function).
+- [Next The Node setTimeout() Function](../TheNodesetTimeout()Function).
 
 Let’s construct a promise! To create a new Promise object, we use the new keyword and the Promise constructor method:
 ```

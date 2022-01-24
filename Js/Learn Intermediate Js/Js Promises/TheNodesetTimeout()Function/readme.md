@@ -1,8 +1,8 @@
 # The Node setTimeout() Function #
 
 - [Index](../).
-- [Previous Constructing a Promise Object](./ConstructingAPromiseObject).
-- [CNext onsuming Promises](./ConsumingPromises).
+- [Previous Constructing a Promise Object](../ConstructingAPromiseObject).
+- [CNext onsuming Promises](../ConsumingPromises).
 
 The Node setTimeout() Function
 Knowing how to construct a promise is useful, but most of the time, knowing how to consume, or use, promises will be key. Rather than constructing promises, you’ll be handling Promise objects returned to you as the result of an asynchronous operation. These promises will start off pending but settle eventually.

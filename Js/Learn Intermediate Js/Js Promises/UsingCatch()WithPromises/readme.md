@@ -1,8 +1,8 @@
 # Using Catch() With Promises #
 
 - [Index](../).
-- [Previous Success and Failure Callback Functions](./SuccessAndFailureCallbackFunctions).
-- [Next Chaining Multiple Promises](./ChainingMultiplePromises).
+- [Previous Success and Failure Callback Functions](../SuccessAndFailureCallbackFunctions).
+- [Next Chaining Multiple Promises](../ChainingMultiplePromises).
 
 Using catch() with Promises
 One way to write cleaner code is to follow a principle called separation of concerns. Separation of concerns means organizing code into distinct sections each handling a specific task. It enables us to quickly navigate our code and know where to look if something isn’t working.

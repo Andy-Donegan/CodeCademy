@@ -1,8 +1,8 @@
 # Avoiding Common Mistakes #
 
 - [Index](../).
-- [Previous Chaining Multiple Promises](./ChainingMultiplePromises).
-- [Next Using Promise.all()](./UsingPromise.All()).
+- [Previous Chaining Multiple Promises](../ChainingMultiplePromises).
+- [Next Using Promise.all()](../UsingPromise.All()).
 
 Promise composition allows for much more readable code than the nested callback syntax that preceded it. However, it can still be easy to make mistakes. In this exercise, we’ll go over two common mistakes with promise composition.
 
