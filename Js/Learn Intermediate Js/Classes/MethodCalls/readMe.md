@@ -1,8 +1,8 @@
 # Method Calls #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Methods](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Methods).
-- [Next Inheritance 1](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance1).
+- [Index](../).
+- [Previous Methods](../Methods).
+- [Next Inheritance 1](../Inheritance1).
 
 Finally, let’s use our new methods to access and manipulate data from Dog instances.
 ```

@@ -1,8 +1,8 @@
 # Inheritance 2 #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Inheritance 1](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance1).
-- [Next Inheritance 3](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance3).
+- [Index](../).
+- [Previous Inheritance 1](../Inheritance1).
+- [Next Inheritance 3](../Inheritance3).
 
 In the last exercise, we created a parent class named Animal for two child classes named Cat and Dog.
 

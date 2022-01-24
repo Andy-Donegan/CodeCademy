@@ -1,8 +1,8 @@
 # Constructor #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Introduction](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Introduction).
-- [Next Instance](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Instance).
+- [Index](../).
+- [Previous Introduction](../Introduction).
+- [Next Instance](../Instance).
 
 In the last exercise, you created a class called Dog, and used it to produce a Dog object.
 

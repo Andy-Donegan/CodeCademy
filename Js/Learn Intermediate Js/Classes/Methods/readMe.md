@@ -1,8 +1,8 @@
 # Methods #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Instance](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Instance).
-- [Next Method Calls](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/MethodCalls).
+- [Index](../).
+- [Previous Instance](../Instance).
+- [Next Method Calls](../MethodCalls).
 
 At this point, we have a Dog class that spins up objects with name and behavior properties. Below, we will add getters and a method to bring our class to life.
 

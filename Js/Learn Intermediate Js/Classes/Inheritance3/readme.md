@@ -1,8 +1,8 @@
 # Inheritance 3 #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Inheritance 2](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance2).
-- [Next Inheritance 4](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance4).
+- [Index](../).
+- [Previous Inheritance 2](../Inheritance2).
+- [Next Inheritance 4](../Inheritance4).
 
 We’ve abstracted the shared properties and methods of our Cat and Dog classes into a parent class called Animal (See below).
 ```

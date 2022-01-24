@@ -1,8 +1,8 @@
 # Inheritance 4 #
 
-- [Index](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes).
-- [Previous Inheritance 3](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance3).
-- [Next Inheritance 5](https://github.com/Andy-Donegan/CodeCademy/tree/main/Js/Learn%20Intermediate%20Js/Classes/Inheritance5).
+- [Index](../).
+- [Previous Inheritance 3](../Inheritance3).
+- [Next Inheritance 5](../Inheritance5).
 
 Now that we know how to create an object that inherits properties from a parent class let’s turn our attention to methods.
 
