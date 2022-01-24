@@ -3,7 +3,7 @@
 ## Requests ##
 
 - [Introduction](./Introduction).
-- [HTTP Requests](./HttpRequests).
+- [HTTP Requests](./HTTPRequests).
 - [XHR GET Requests](./XHRGETRequests).
 
 - [Writing async Functions](./WritingAsyncFunctions).
